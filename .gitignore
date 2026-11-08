@@ -1,0 +1,12 @@
+# Toolchain / SDK folders that must stay out of this repo
+/PulseBloom/
+/Unity/
+/UnityHub/
+/SteamCMD/
+/Steamworks.NET/
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.vs/
+*.user
